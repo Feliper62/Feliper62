@@ -1,5 +1,5 @@
 
-### 👋 Olá! Sou Felipe, um aspirante a desenvolvedor com uma visão empolgante e determinado a mergulhar no mundo da programação. Atualmente, estou no 🎓 quinto semestre do meu curso de Análise e Desenvolvimento de Sistemas.
+### 👋 Olá! Sou Felipe, um aspirante a desenvolvedor, com uma visão empolgante e determinada a mergulhar no mundo da programação. Atualmente, estou no 🎓 quinto semestre do meu curso de Análise e Desenvolvimento de Sistemas.
 ### 🌱 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades de programação.
 ### 🤝 Estou aberto a oportunidades de colaboração e networking, então sinta-se à vontade para entrar em contato!
 
